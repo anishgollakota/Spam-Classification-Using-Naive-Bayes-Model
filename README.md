@@ -10,4 +10,4 @@ After training this classifier using a Naive-Bayes Model, the results were:
 
 The **F1 Score** is an indication of the model's accuracy taking into account precision and recall. 
 
-With a **F! Score** of 0.99, it is an indication of a well built model.
+With a **F1 Score** of 0.99, it is an indication of a well built model.
