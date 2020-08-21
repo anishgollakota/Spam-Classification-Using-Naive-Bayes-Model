@@ -6,3 +6,8 @@ Using an Scikit-Learn Naive Bayes Model, was able to train a sequential dataset 
 
 After training this classifier using a Naive-Bayes Model, the results were: 
 
+![](spam_results.png)
+
+The **F1 Score** is an indication of the model's accuracy taking into account precision and recall. 
+
+With a **F! Score** of 0.99, it is an indication of a well built model.
